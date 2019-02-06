@@ -1170,8 +1170,8 @@ var WebsocketService = /** @class */ (function () {
     // Подключение Веб Сокета
     WebsocketService.prototype.startWebSocket = function () {
         var _this = this;
-        this.socketGetURL = 'ws://' + this.serverUrl + '/?user=' + this.userId;
-        this.socketSendURL = 'ws://' + this.serverUrl + '/?user=' + this.userId + '_2';
+        this.socketGetURL = 'wss://' + this.serverUrl + '/?user=' + this.userId;
+        this.socketSendURL = 'wss://' + this.serverUrl + '/?user=' + this.userId + '_2';
         this.socketGet = new WebSocket(this.socketGetURL);
         this.socketSend = new WebSocket(this.socketSendURL);
         //console.log('Start Web Socket');
