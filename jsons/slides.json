@@ -1,0 +1,23 @@
+[
+  {
+    "title" : "Англійська мова з повним зануренням",
+    "subtitle": "Виріши свої мовні проблеми, глибоко та назавжди",
+    "image": "",
+    "logo": true,
+    "type": 1
+  },
+  {
+    "title" : "LIFESTYLE <img src='./images/dynamic/images/image-5.png' alt='#' class='smile-2'><br>English Course",
+    "subtitle": "Виріши свої мовні проблеми, глибоко та назавжди",
+    "image": "slide-1.jpg",
+    "logo": false,
+    "type": 2
+  },
+  {
+    "title" : "LIFESTYLE <img src='./images/dynamic/images/image-5.png' alt='#' class='smile-2'><br>English Course",
+    "subtitle": "Виріши свої мовні проблеми, глибоко та назавжди",
+    "image": "slide-2.jpg",
+    "logo": false,
+    "type": 2
+  }
+]
